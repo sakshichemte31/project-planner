@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.*
+planner.db
+planner.db-shm
+planner.db-wal
+uploads/*
+.DS_Store
