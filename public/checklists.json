@@ -1,0 +1,191 @@
+{
+ "admin": {
+  "Statutory documents": [
+   "Trust Registration Certificate",
+   "Atg & 12 A Trust deed",
+   "Pancard",
+   "BRCL/Bank Acc",
+   "Aligned Objectives",
+   "TAN no",
+   "CSR -1",
+   "ITR 3 years",
+   "NGO Profile",
+   "Three years annual report",
+   "Niti Ayog/Ngo Darpan",
+   "NGO Profile"
+  ],
+  "Project related documents": [
+   "Authority letter",
+   "Detail project report",
+   "Sub Project proposal",
+   "Request letter",
+   "M & E Framework Report",
+   "Project Related Past Activity Report",
+   "Risk Management Report",
+   "Project Team Documents"
+  ],
+  "Policy documents required": [
+   "FM",
+   "HR",
+   "CONFLICT OF INTEREST",
+   "Data protection & privacy policy",
+   "Risk/crisis management policy",
+   "Safe Guarding policy (POSH)",
+   "Equality And Diversity",
+   "Document Retention Policy",
+   "Procurement policy",
+   "Governance & Ethics Standards",
+   "Programme and Project management",
+   "Communication and branding policy policies",
+   "Fundraising and donor management policy",
+   "Operation and administration policy",
+   "Partnership and networking policy",
+   "Environmental and sustainability policy",
+   "M&E",
+   "Learning (MEL)Policy",
+   "Nutrition and food safety policy",
+   "Health And Medical ethics policy",
+   "Asset management policy"
+  ],
+  "Special asks": [
+   "LEI",
+   "E-Anudan",
+   "FCRA"
+  ]
+ },
+ "hr": {
+  "Execution preparedness": [
+   "Staff JD & targets",
+   "Hiring checklist",
+   "Volunteer acquiring & boarding",
+   "Committee formation & meetings plan scheduleing",
+   "Staff+intern+volunteer training & capacity building plan",
+   "Attendence & performance tracking",
+   "Payrool & benefits",
+   "Employee engagement",
+   "Organize internal meeting",
+   "Exit management",
+   "Intern & corporate bridging (internal placement cell)",
+   "HR legal & policy wise committee meetings",
+   "Conflict resolution",
+   "Company culture management"
+  ]
+ },
+ "marketing": {
+  "Execution preparedness": [
+   "Short proposals & grant designing",
+   "Posters",
+   "PPT",
+   "Video adv",
+   "Social media post content for quarter",
+   "Online & offline campaigns inc fundraising(add auction, sponsor, subscribers fees, events, etc.)",
+   "Impact awareness strategy plan",
+   "Field photo & video checklist",
+   "Review & testomonials collection schedule",
+   "Social media wise schedule calender",
+   "Blogs writing",
+   "Stakeholders digital rewarding plan",
+   "New networking",
+   "Paid ads magement",
+   "Awards applying",
+   "Story telling strategy",
+   "AIDA"
+  ]
+ },
+ "finance": {
+  "Execution preparedness": [
+   "Financial account booking audit",
+   "Expense classification & alignment with rules",
+   "Auditing committee inspection visit plan",
+   "Monthly study report over changes in charity rules & best practices",
+   "Staff accounts management system",
+   "Tender management system & frameworks",
+   "FCRA complainance",
+   "Compliances (80g filing -10BD, audit filing, etc) fulfillment",
+   "Grant & donor management",
+   "Financial strategy & expense control",
+   "Cashflow+balanceshhet+P&L"
+  ]
+ },
+ "fundraising": {
+  "Execution preparedness": [
+   "Short proposals & grant writing",
+   "Posters & PPT content writing",
+   "DPR reports quotetion collection",
+   "Teder process",
+   "Funding diversification planning",
+   "Donor relation",
+   "Key stakeholders relation",
+   "Funds related networking",
+   "Events planning",
+   "Csr partnerships",
+   "MOU siging",
+   "Funds tracking",
+   "Donor tracebility report sharing",
+   "Donor lifecycle management",
+   "Target segmenting for new & old",
+   "Grant pipeline management"
+  ]
+ },
+ "operations": {
+  "Execution preparedness": [
+   "Operations planning",
+   "All stakeholders Work Scheduling",
+   "Resource & inventory mobilization",
+   "Fastrack decision making framework",
+   "Expansion strategy reporting",
+   "Permissions",
+   "Approvals record keeping",
+   "Logistic & coordination",
+   "Quality control",
+   "Inter-departmental coordination",
+   "Management reporting",
+   "Beneficary relation & management"
+  ]
+ },
+ "mel": {
+  "Execution preparedness": [
+   "M&E sheets with KPIs",
+   "Staff & other stakeholders record keeping system (daily, weekly, monthly, quaterly & yearly)",
+   "Audit & Inspection committee activities scheduling",
+   "Work & Impact effeciency analysing framework",
+   "Data story for case studies",
+   "Research paper & book/articles",
+   "All stakeholders review/feedback management system",
+   "Learning & improvement plans & internal magzine/newsletter",
+   "Donation transebility & impact report"
+  ]
+ },
+ "innovation": {
+  "Execution preparedness": [
+   "Risk registry",
+   "Scalability modelling plan",
+   "Need assessment report",
+   "Study of existing social innovation models report",
+   "Project wise best practices suggestion circular",
+   "Research - problem statements & conecpt notes for PHD students & scientists",
+   "Organizational level research papers proposal",
+   "DEPARTMENT WISE innovation reports"
+  ]
+ },
+ "datatech": {
+  "Execution preparedness": [
+   "Data collection framework each Stakeholder",
+   "Data Flow",
+   "Digitalisation of operations",
+   "Decision making sheets and reports",
+   "Integration Of digital Tools and its Training",
+   "Data mining & Validation",
+   "Data privacy policy exibition",
+   "Maneging data with cordination of all departments",
+   "Webiste and digital infrastructer mangement",
+   "Devoloping applications",
+   "Digital social work",
+   "Reserch Center Data mangement",
+   "Cyber security",
+   "Automation",
+   "Customer relation system management with team",
+   "SEO"
+  ]
+ }
+}
